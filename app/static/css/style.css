@@ -1,3 +1,24 @@
 body {
     font-family: Helvetica, "Helvetica Neue", sans-serif;
+    background-color: black;
+}
+
+.current
+{
+    color:mediumvioletred;
+}
+
+.white
+{
+    color: white;
+}
+
+h1
+{
+    text-align: center;
+}
+
+.makeBigger
+{
+    font-size: 120%;
 }
